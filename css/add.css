@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Heebo', sans-serif;
+}
+
+.form{
+    margin: auto;
+    text-align: center;
+}
+.text-success,.text-danger{
+    display: none;
+}
