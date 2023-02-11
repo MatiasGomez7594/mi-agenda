@@ -12,6 +12,6 @@ nombre y apellido
 email
 contraseña
 
-Importante
+Importante!!!!
 para ejecutar la aplicacion es necesario ejecutar el arhivo bbdd con extension sql
 
